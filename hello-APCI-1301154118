@@ -1,4 +1,4 @@
-﻿Program Hello; // ubah menjadi Program APCI-NIM
+﻿Program Hello; // ubah menjadi Program
             Uses Crt;
             Begin
                 ClrScr;
